@@ -9,6 +9,7 @@ rappel.txt
 __pycache__/
 build/
 .idea/
+.gitattributes
 
 # C extensions
 *.so
