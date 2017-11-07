@@ -1,9 +1,0 @@
-rappel.txt
-
-.idea/
-
-__pycache__/
-
-build/
-
-.idea/
