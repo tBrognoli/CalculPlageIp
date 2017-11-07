@@ -1,0 +1,12 @@
+ip0.ip1.ip2.ip3
+
+ip = ip0 + ip1 + ip2
+
+resultListe[0] = ip0
+resultListe[1] = ip1
+resultListe[2] = ip2
+resultListe[3] = ip3
+resultListe[4] = ip
+resultListe[5] = nbBitReseau
+resultListe[6] = pasDe
+resultListe[7] = mask
